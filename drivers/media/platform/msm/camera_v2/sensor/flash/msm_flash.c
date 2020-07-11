@@ -18,7 +18,7 @@
 #include "msm_flash.h"
 #include "msm_camera_dt_util.h"
 #include "msm_cci.h"
-#include <fac_flash.h>
+#include "fac_flash.h"
 
 
 #undef CDBG
