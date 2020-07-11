@@ -401,7 +401,7 @@ static int set_rf_id(char *str)
 				break;
 #endif
 			default:
-				asus_rf_id = ASUS_UNKNOWN;		
+				asus_rf_id = ASUS_ZD552KL_PHOENIX;		
 		}
 	}
 	
