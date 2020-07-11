@@ -1,4 +1,4 @@
-#include <fac_flash.h>
+#include "fac_flash.h"
 #include <linux/module.h>
 #include <linux/of_gpio.h>
 #include "msm_flash.h"
@@ -9,7 +9,7 @@
 #include "msm_flash.h"
 #include "msm_camera_dt_util.h"
 #include "msm_cci.h"
-#include <fac_flash.h>
+#include "fac_flash.h"
 #include <linux/leds.h>
 #include <linux/platform_device.h>
 #include <media/v4l2-subdev.h>
