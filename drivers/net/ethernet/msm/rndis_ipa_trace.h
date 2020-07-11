@@ -17,7 +17,7 @@
 #if !defined(_RNDIS_IPA_TRACE_H) || defined(TRACE_HEADER_MULTI_READ)
 #define _RNDIS_IPA_TRACE_H
 
-#include <linux/tracepoint.h>
+#include "linux/tracepoint.h"
 
 TRACE_EVENT(
 	rndis_netif_ni,
